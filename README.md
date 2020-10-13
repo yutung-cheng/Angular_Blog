@@ -1,6 +1,9 @@
-# Assignment6
+# Angular Testing Blog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+
+Preview video link:
+https://www.youtube.com/watch?v=beZL819T4Mw
 
 ## Development server
 
